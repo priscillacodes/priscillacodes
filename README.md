@@ -1,4 +1,4 @@
-![](https://www.pexels.com/photo/multicolored-abstract-painting-1269968/)
+<img src="bckgd.jpg"><br>
 # Hey there, I'm Priscilla! 😎
 
 ### I am a chemist looking to make a career change into web development.
