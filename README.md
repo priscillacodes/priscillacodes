@@ -1,4 +1,4 @@
-<img src="bckgd.jpg" width="500px" height="205px"><br>
+<img src="bckgd.jpg" width="700px" height="205px"><br>
 # Hello, I'm Priscilla! 😎
 
 ### I am a chemist looking to make a career change into web development.
