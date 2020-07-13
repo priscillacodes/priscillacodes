@@ -1,5 +1,5 @@
-<img src="bckgd.jpg" width="3000px" height="175px"><br>
-# Hey there, I'm Priscilla! 😎
+<img src="bckgd.jpg" width="2000px" height="205px"><br>
+# Hello, I'm Priscilla! 😎
 
 ### I am a chemist looking to make a career change into web development.
 <!--
