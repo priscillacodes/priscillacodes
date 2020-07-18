@@ -1,4 +1,4 @@
-<img src="banner.png" width="800px" height="205px"><br>
+<img src="priscilla.png" width="700px" height="205px"><br>
 ## I am a chemist looking to make a career change into web development.
 <!--
 **priscillacodes/priscillacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
