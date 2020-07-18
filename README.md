@@ -1,7 +1,5 @@
-<img src="bckgd.jpg" width="700px" height="205px"><br>
-# Hello, I'm Priscilla! 😎
-
-### I am a chemist looking to make a career change into web development.
+<img src="Hey!_I'm_Priscilla!.png" width="800px" height="205px"><br>
+## I am a chemist looking to make a career change into web development.
 <!--
 **priscillacodes/priscillacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
